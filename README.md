@@ -13,3 +13,6 @@ File->Export Setting..., Chose the save path, then click OK.
 Open IntelliJ IDEA;
 
 File->Import Setting..., Chose the setting.jar, then click OK.
+
+###Install Plugins
+Jindent - Source Code Formater
